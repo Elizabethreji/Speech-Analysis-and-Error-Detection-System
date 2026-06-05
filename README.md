@@ -6,7 +6,7 @@ An AI-powered speech analysis system designed to detect pronunciation and articu
 
 Traditional speech assessment methods are often manual, time-consuming, and subject to human bias. This project automates the process by transcribing speech, analyzing phoneme-level pronunciation, and identifying articulation errors such as substitutions, omissions, additions, and distortions.
 
-The system is specifically designed for Malayalam speech therapy applications and aims to support clinicians with faster and more consistent evaluations. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+The system is specifically designed for Malayalam speech therapy applications and aims to support clinicians with faster and more consistent evaluations. 
 
 ## Features
 
@@ -78,7 +78,7 @@ The results demonstrate the potential of AI-assisted speech therapy tools for ob
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshot%202026-03-05%20203537.png)
+![Home Page](screenshots%202026-03-05%20203537.png)
 
 - Support for additional Indian languages
 - Real-time speech analysis
