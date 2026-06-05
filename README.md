@@ -66,7 +66,7 @@ Incorrect articulation of a phoneme, including:
 - Phoneme Transcription Accuracy: **80%+**
 - Speech Error Detection Accuracy: **70%**
 
-The results demonstrate the potential of AI-assisted speech therapy tools for objective and scalable speech assessment. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}
+The results demonstrate the potential of AI-assisted speech therapy tools for objective and scalable speech assessment. 
 
 ## Applications
 
@@ -78,13 +78,8 @@ The results demonstrate the potential of AI-assisted speech therapy tools for ob
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots%202026-03-05%20203537.png)
+![Home Page](screenshots/Screenshot%202026-03-05%20203537.png)
 
-- Support for additional Indian languages
-- Real-time speech analysis
-- Larger clinical datasets
-- Deep learning-based error classification
-- Therapist dashboard and reporting tools
 
 ## Team
 
