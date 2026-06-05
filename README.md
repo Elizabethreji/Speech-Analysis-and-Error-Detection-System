@@ -75,7 +75,10 @@ The results demonstrate the potential of AI-assisted speech therapy tools for ob
 - Pronunciation Training
 - Educational Speech Tools
 - Early Detection of Speech Disorders
+## Screenshots
 
+### Home Page
+![Home Page](Screenshot%202026-03-05%20203537.png)
 ## Future Enhancements
 
 - Support for additional Indian languages
