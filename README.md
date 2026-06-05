@@ -78,8 +78,7 @@ The results demonstrate the potential of AI-assisted speech therapy tools for ob
 ## Screenshots
 
 ### Home Page
-![Home Page](Screenshot%202026-03-05%20203537.png)
-## Future Enhancements
+![Home Page](screenshot%202026-03-05%20203537.png)
 
 - Support for additional Indian languages
 - Real-time speech analysis
